@@ -12,3 +12,4 @@
 | 三菱UFJ（MUFG） | DAHZ3z_phuM（https://www.canva.com/d/PsY0chJUfQ2ZvGy） | 企業研究/MUFG/MUFG_動画原稿.txt |
 | 三井住友FG（SMBC） | DAHZ4HfyTh4（https://canva.link/m3gvgx2zrxeo1k3） | 企業研究/三井住友FG/三井住友FG_動画原稿.txt |
 | みずほFG | DAHZ4JE68PI（https://canva.link/uvm4whdm13mpgn5） | 企業研究/みずほFG/みずほFG_動画原稿.txt |
+| リクルートHD | DAHaEkxKhI8（https://canva.link/de6nvg9n1tkiobq） | 企業研究/リクルートHD/リクルートHD_動画原稿.txt |
